@@ -45,7 +45,7 @@ The code is not efficient for multi objective optimisation if the number of clie
 
 Even though the code is proper and working the optimisation for 25 clients as per the challenge using PULP model would take alot of time (which is not even feasible). But as the challenge was to optimise the route and vehicle, the algorithm effectively achieves that (even if results are avaible for less than 15 clients). The results as are as below:
 
-## Model was input with number of clients = 14 and number of vehicles = 5
+## Model was input with number of clients = 14 (including Depot) and maxmimum number of vehicles = 5
 
 ### Results: Optimised Route Length = 239.67871644 and Number Of Vehicles required = 3
 
