@@ -56,5 +56,5 @@ As  I have not achieved the challenge of optimising the route anf number of vehi
 The algorithm and results for the complete challenge using the DEAP package can be found at:
 
 ```bash
-[python rulp.py](https://github.com/xenvik/Capacitated_Vehicle_Routing_Problem_DEAP)
+(https://github.com/xenvik/Capacitated_Vehicle_Routing_Problem_DEAP)
 ```
