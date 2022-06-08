@@ -20,11 +20,11 @@ The primary approach for using PULP package is the ease of coding optimisation p
 3) Virtual Environment
 
 # Assumptions
-5) Due date, service time, ready time are ignored from the dataset as stated in the problem statement
-6) There is no cost of extra vehicle. Hence taken = 0.
-7) There is no time delay and no time windows for our vehicle at the objective locations
-8) Distance between client to client is calculated by Euclidean, as per the task.
-9) Vehicle always starts from the depot customer_0 and delivers goods and then comes back to depot again after delivery.
+1) Due date, service time, ready time are ignored from the dataset as stated in the problem statement
+2) There is no cost of extra vehicle. Hence taken = 0.
+3) There is no time delay and no time windows for our vehicle at the objective locations
+4) Distance between client to client is calculated by Euclidean, as per the task.
+5) Vehicle always starts from the depot customer_0 and delivers goods and then comes back to depot again after delivery.
 
 # 1) Parsing Input
 
