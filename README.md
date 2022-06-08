@@ -47,6 +47,8 @@ Even though the code is proper and working the optimisation for 25 clients as pe
 
 ## Model was input with number of clients = 14 and number of vehicles = 5
 
+### Results: Optimised Route Length = 239.67871644 and Number Of Vehicles required = 3
+
 The model results are satisfactory for the above requirements and the processing time was 440 seconds.
 ![PULP_VRP_Results](https://user-images.githubusercontent.com/55597813/172597603-a32db11a-9db6-466d-b976-efa775932356.png)
 
